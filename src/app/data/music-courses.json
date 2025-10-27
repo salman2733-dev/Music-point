@@ -8,7 +8,7 @@
         "price": 99.99,
         "instructor": "John Doe",
         "isFeatured": true,
-        "image": "/public/crowd.avif" 
+        "image": "/crowd.avif" 
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "price": 109.99,
         "instructor": "Jane Smith",
         "isFeatured": false,
-        "image": "/public/piano.avif" 
+        "image": "/piano.avif" 
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "price": 119.99,
         "instructor": "Emily Johnson",
         "isFeatured": true,
-        "image": "/public/lalala.avif" 
+        "image": "/lalala.avif" 
 
       },
       {
@@ -39,7 +39,7 @@
         "price": 129.99,
         "instructor": "Mike Brown",
         "isFeatured": false,
-        "image": "/public/drum.jpg"
+        "image": "/drum.jpg"
       },
       {
         "id": 5,
@@ -49,7 +49,7 @@
         "price": 139.99,
         "instructor": "Chris Davis",
         "isFeatured": false,
-        "image": "/public/jazz.avif"
+        "image": "/jazz.avif"
       },
       {
         "id": 6,
@@ -59,7 +59,7 @@
         "price": 149.99,
         "instructor": "Alex Wilson",
         "isFeatured": true,
-        "image": "/public/piano.avif"
+        "image": "/piano.avif"
         
       },
       {
@@ -80,7 +80,7 @@
         "price": 169.99,
         "instructor": "Luke Harris",
         "isFeatured": true,
-        "image": "/public/mike.avif"
+        "image": "/mike.avif"
       },
       {
         "id": 9,
@@ -90,7 +90,7 @@
         "price": 179.99,
         "instructor": "Grace Lee",
         "isFeatured": false,
-        "image": "/public/gitar.avif"
+        "image": "/gitar.avif"
       },
       {
         "id": 10,
@@ -99,8 +99,8 @@
         "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
         "price": 189.99,
         "instructor": "Ethan Moore",
-        "isFeatured": true,
-        "image": "/public/gitar.avif"
+        "isFeatured": true, 
+        "image": "/gitar.avif"
       }
     ]
   }
